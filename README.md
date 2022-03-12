@@ -1,4 +1,1 @@
 Main
-Violeta
-Verde
-Rojo
