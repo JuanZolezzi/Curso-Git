@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Main
-=======
 Verde
->>>>>>> verde
